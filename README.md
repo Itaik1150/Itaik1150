@@ -6,7 +6,7 @@
 
 ## About Me
 
-I am a second-year Industrial Engineering and Management student at Ben-Gurion University of the Negev. With a strong interest in coding, I enjoy solving problems and developing efficient solutions. I have experience in various programming languages, including Java, Python, Excel VBA, R, and SQL. I have completed projects such as simulating bus stations using multiple threads in Java and optimizing job placement on multiple machines using Excel VBA for my dissertation on production supervision planning. These experiences have enhanced my skills in programming, data analysis, and problem-solving.
+I am a Third-year Industrial Engineering and Management student at Ben-Gurion University of the Negev. With a strong interest in coding, I enjoy solving problems and developing efficient solutions. I have experience in various programming languages, including Java, Python, Excel VBA, R, and SQL. I have completed projects such as simulating bus stations using multiple threads in Java and optimizing job placement on multiple machines using Excel VBA for my dissertation on production supervision planning. These experiences have enhanced my skills in programming, data analysis, and problem-solving.
 
 ## Skills
 
