@@ -1,24 +1,31 @@
+Hi there, I'm Itai Kohn 👋
+Fast-track M.Sc. Student in Industrial Engineering @ Ben-Gurion University Specializing in AI, Machine Learning, and Intelligent Systems.
 
-# Itai Kohn
+🚀 About Me
+I am a researcher and developer passionate about the intersection of Artificial Intelligence and Human-Computer Interaction (HCI). Currently, my research focuses on Proactive LLM Agents within the LabaLaB (Human-Computer Interaction Lab), under the supervision of Dr. Guy Laban.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/itai-kohn-98a716202/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-ff69b4)](https://www.your-portfolio.com/)
+I thrive on turning complex academic research into real-world applications, whether it's through deep reinforcement learning for robotics or building AI-driven platforms for the HR-Tech industry.
 
-## About Me
+🛠️ Tech Stack & Tools
+Languages: Python (Advanced), SQL, R, Java, Node.js, VBA.
 
-I am a Third-year Industrial Engineering and Management student at Ben-Gurion University of the Negev. With a strong interest in coding, I enjoy solving problems and developing efficient solutions. I have experience in various programming languages, including Java, Python, Excel VBA, R, and SQL. I have completed projects such as simulating bus stations using multiple threads in Java and optimizing job placement on multiple machines using Excel VBA for my dissertation on production supervision planning. These experiences have enhanced my skills in programming, data analysis, and problem-solving.
+AI & Data Science: LLMs (Agents, Prompt Engineering), Deep Reinforcement Learning (DRL), PyTorch, Scikit-learn, Statistical Modeling.
 
-## Skills
+Databases & Tools: MongoDB, Git, SAP, Jira, LaTeX (Overleaf).
 
-- Programming Languages: Java, Python, Excel VBA, R, SQL
-- Tools and Technologies: Excel VBA, Git
-- Other Skills: Problem-solving, Data Analysis, Project Management
+🌟 Key Projects
+Proactive LLM Agents (M.Sc. Research): Developing autonomous agents that anticipate human needs to foster intuitive and seamless HCI.
 
-## Projects
+DRL for Robotics: Developed a Deep Reinforcement Learning navigation system for TurtleBot3 in simulated environments. Ranked with Excellence & Selected for the University's Annual Exhibition.
 
-- **Bus Station Simulation (Java)**: Developed a multithreaded program in Java to simulate bus stations with different threads representing various stations. This project involved implementing concepts such as thread management, resource sharing, and inter-thread communication.
+💼 Professional Background
+Teaching Assistant: Linear Regression Models @ Ben-Gurion University.
 
-- **Optimal Job Placement (Excel VBA)**: Conducted a dissertation project on production supervision, where I used Excel VBA to find the optimal solution for placing jobs on multiple machines. This involved developing custom functionalities, input data management, algorithm design, and solution visualization.
+Ex-Bayer AG: Supply Chain Coordinator; developed automation tools reducing processing times by 90%.
 
-For more information about my projects, please visit my [portfolio](https://www.your-portfolio.com/).
+📫 Let's Connect!
+LinkedIn: Itai Kohn
 
+Portfolio: itaikohn.com
+
+Email: itaik1150@gmail.com
