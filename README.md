@@ -28,4 +28,4 @@ LinkedIn: Itai Kohn
 
 Portfolio: itaikohn.com
 
-Email: itaik1150@gmail.com
+Email: itaikoh@post.bgu.ac.il
